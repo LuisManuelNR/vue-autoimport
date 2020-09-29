@@ -1,6 +1,6 @@
 {
-  "name": "vue-autoimport",
-  "version": "0.0.1",
+  "name": "@chazy/vue-autoimport",
+  "version": "0.0.2",
   "description": "Using a match function to automatic import your own project's components",
   "keywords": [
     "vue", 
