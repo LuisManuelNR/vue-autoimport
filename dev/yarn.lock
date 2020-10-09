@@ -861,10 +861,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@chazy/vue-autoimport@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@chazy/vue-autoimport/-/vue-autoimport-0.0.1.tgz#2ed5d08a90add405ec9a0adad71acb052ea27d99"
-  integrity sha512-1fvBzRYEGW1g1eX5xKYitFF64JkHzWX3sggQHeV+nGI1oiA/ODANyf3HIkXzeUel67F5N2FC1rxB1XcAF5wRdw==
+"@chazy/vue-autoimport@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@chazy/vue-autoimport/-/vue-autoimport-0.0.2.tgz#9b4ba22b266ad09d0fac8102f387298ba4713ccd"
+  integrity sha512-mSViyoq98Ml6z4vvvPpQiYQuUfr50G5xrFM0gr8obqG72QjHmkfA+6VMhpx3/dxNaNSvc4tfEwMKPMfR5UXUUA==
   dependencies:
     loader-utils "^1.1.0"
 

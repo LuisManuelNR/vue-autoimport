@@ -1,4 +1,4 @@
-const { VueAutoImportPlugin } = require('@chazy/vue-autoimport')
+const { VueAutoImportPlugin } = require('../lib')
 
 module.exports = {
   configureWebpack: {
